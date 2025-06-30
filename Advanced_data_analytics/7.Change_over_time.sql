@@ -1,3 +1,9 @@
+-- =============================================
+-- Script: Sales and Customer Metrics Aggregated by Time Periods
+-- Description:
+--   Provides aggregated KPIs from sales data by year, month, and year-month 
+--   to enable trend analysis and reporting on sales performance over time.
+
 -- Set active database context
 USE DataWareHouse;
 GO
