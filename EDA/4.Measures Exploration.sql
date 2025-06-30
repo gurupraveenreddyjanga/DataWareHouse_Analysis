@@ -1,3 +1,10 @@
+-- Script: Business KPIs Overview
+-- Description:
+--   Aggregates key performance indicators from the 
+--   DataWareHouse including revenue, sales volume, 
+--   product catalog size, customer base, and order activity.
+
+
 -- Set active database
 USE DataWareHouse;
 GO
