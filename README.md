@@ -7,7 +7,9 @@ This repository contains **SQL scripts** and **analytical queries** built on top
 
 ## Related Repository: Data Warehouse Datasets  
 The raw and processed data layers are managed in a separate repository:  
-**[Data Warehouse Datasets Repository](https://github.com/yourusername/your-datasets-repo)**  
+
+https://github.com/gurupraveenreddyjanga/SQL-DATAWARE-HOUSE-PROJECT
+
 This repo includes:  
 - **Bronze layer:** Raw/original datasets  
 - **Silver layer:** Cleaned and processed data  
