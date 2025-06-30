@@ -1,3 +1,9 @@
+-- =============================================
+-- Script: Cumulative Revenue Analysis by Time Periods
+-- Description:
+--   Calculates cumulative total revenue over years, months, and year-month periods
+--   using window functions to provide insights on revenue growth trends over time.
+
 USE DataWareHouse;
 GO
 
