@@ -1,3 +1,16 @@
+-- =============================================
+-- View Name: products_report
+-- Description: 
+--   This view summarizes sales performance for each product.
+--   It includes metrics like total sales, quantity sold, 
+--   customer count, order frequency, product lifespan, 
+--   and performance segmentation.
+-- 
+-- Source Tables:
+--   - gold.dim_fact_sales
+--   - gold.dim_products
+
+
 -- Switch to the DataWareHouse database
 USE DataWareHouse;
 GO
