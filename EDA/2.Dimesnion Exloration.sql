@@ -1,3 +1,9 @@
+-- Script: Lookup Values Exploration
+-- Description:
+--   Extracts unique values from customer and product 
+--   dimension tables for data profiling or use in filters.
+
+
 -- Set database context
 USE DataWareHouse;
 GO
