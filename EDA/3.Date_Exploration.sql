@@ -1,3 +1,9 @@
+-- Script: Sales Timeline & Customer Age Summary
+-- Description:
+--   Extracts key metadata on sales data coverage and 
+--   customer age distribution to support time-based 
+--   reporting and segmentation logic.
+
 -- Set the context to the warehouse
 USE DataWareHouse;
 GO
