@@ -1,3 +1,11 @@
+-- Script: Detailed Exploratory Aggregations and Data Dumps
+-- Description:
+--   Performs various grouped aggregations to explore customer,
+--   product, and sales data by key dimensions. Also extracts 
+--   full dimension tables for detailed inspection.
+--
+
+
 -- Set context to DataWareHouse
 USE DataWareHouse;
 GO
