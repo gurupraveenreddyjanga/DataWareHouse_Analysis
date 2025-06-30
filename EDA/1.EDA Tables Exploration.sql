@@ -1,3 +1,10 @@
+-- Script: Schema Discovery - Tables and Columns
+-- Description:
+--   Retrieves metadata for all tables and columns in the 
+--   DataWareHouse database. Useful for understanding the 
+--   schema, planning data pipelines, or reverse engineering.
+--
+
 -- Set database context
 USE DataWareHouse;
 GO
