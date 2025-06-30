@@ -1,4 +1,14 @@
+### View: cust_report
 
+Generates a customer-level sales summary using transactional sales and customer demographic data.
+Includes KPIs like average order value, average monthly spend, customer category segmentation (VIP, Regular, New),
+and age groupings.
+
+**Source Tables:**
+- `gold.dim_fact_sales`
+- `gold.dim_customers`
+
+    
 -- Switch to the DataWareHouse database
 USE DataWareHouse;
 GO
