@@ -1,3 +1,10 @@
+-- =============================================
+-- Script: Revenue Performance Analysis by Year and Product Category
+-- Description:
+--   Calculates total revenue by year and product category,
+--   computes overall total revenue, and calculates the revenue share
+--   percentage for each year and category to analyze contribution and performance.
+
 USE DataWareHouse;
 GO
 
