@@ -1,3 +1,9 @@
+-- =============================================
+-- Script: Product Yearly Sales Trend Analysis
+-- Description:
+--   Analyzes yearly sales trends for each product by calculating total sales, 
+--   average sales across years, deviation from average, 
+--   and year-over-year changes with descriptive labels.
 
 USE DataWareHouse;
 GO
