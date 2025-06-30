@@ -1,3 +1,11 @@
+-- =============================================
+-- Script: Product Cost and Customer Spending Behavior Segmentation
+-- Description:
+--   Part 1: Segments products into cost categories based on product cost.
+--   Part 2: Segments customers into VIP, Regular, and New based on purchase history and spending.
+--
+
+
 USE DataWareHouse;
 GO
 
