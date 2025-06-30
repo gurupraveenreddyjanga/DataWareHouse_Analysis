@@ -1,3 +1,11 @@
+-- =============================================
+-- Script: Product Revenue Analysis and Extract
+-- Description:
+--   Extracts full product details and identifies top 5 products 
+--   based on total sales revenue using two methods: 
+--   a window function ranking and a simple top query.
+
+
 -- Set active database context
 USE DataWareHouse;
 GO
