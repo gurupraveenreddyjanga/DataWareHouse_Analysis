@@ -24,8 +24,3 @@ This repo includes:
 
 ---
 
-## How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/your-analytics-repo.git
